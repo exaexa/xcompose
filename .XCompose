@@ -89,8 +89,21 @@ include "%L"
 # Math misc
 <Multi_key> <m> <f> : "∀"
 <Multi_key> <m> <e> : "∃"
+<Multi_key> <m> <n> <e> : "∄"
+<Multi_key> <m> <0> : "∅"
 <Multi_key> <m> <t> : "⊤"
 <Multi_key> <m> <b> : "⊥"
+<Multi_key> <m> <s> : "⊆"
+<Multi_key> <m> <n> <s> : "⊈"
+<Multi_key> <m> <i> : "∈"
+<Multi_key> <m> <n> <i> : "∉"
+<Multi_key> <m> <p> : "⊢"
+<Multi_key> <m> <n> <p> : "⊬"
+<Multi_key> <m> <m> : "⊨"
+<Multi_key> <m> <n> <m> : "⊭"
+
+# Julia pls.
+<Multi_key> <m> <o>   : "∘"  U2218
 
 <Multi_key> <grave> <bracketleft> : "⌜"
 <Multi_key> <grave> <bracketright> : "⌝"
